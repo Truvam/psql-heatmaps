@@ -1,0 +1,6 @@
+matplotlib==3.0.2
+numpy==1.14.1
+psycopg2_binary==2.7.6.1
+gmaps==0.8.2
+psycopg2==2.7.6.1
+jupyter
