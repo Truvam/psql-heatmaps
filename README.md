@@ -1,4 +1,6 @@
 # Heatmaps
+Using PostgreSQL and Python to build heat-maps.
+In the example shown below, it was used a dataset containing all taxis services occurred in Porto.
 ## Installation:
 ```
 Version: Python 3.5.2
@@ -24,6 +26,8 @@ Navigate to url obtained above;
 Choose the notebook you want to run:
 ```
 * [Heatmap_2D.ipynb](Heatmap_2D.ipynb)
+![map_2d](map_2d.png)
 * [Heatmap_Gmap.ipynb](Heatmap_Gmap.ipynb)
+![gmap](gmap.png)
 
 
