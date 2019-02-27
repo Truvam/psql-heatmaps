@@ -23,7 +23,7 @@ $ jupyter notebook
 Navigate to url obtained above;
 Choose the notebook you want to run:
 ```
-* `Heatmap_2D.ipynb`
-* `Heatmap_Gmap.ipynb`
+* [Heatmap_2D.ipynb](Heatmap_2D.ipynb)
+* [Heatmap_Gmap.ipynb](Heatmap_Gmap.ipynb)
 
 
